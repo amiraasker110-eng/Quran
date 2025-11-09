@@ -1,0 +1,192 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "bdd623612b8cb6d0ad1e43f988c8e8b7"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "4202808df745f2ac7ab250606fa0d272"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "fa238f48f9a2ab93b0c59a116e831bca"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "11bee19e86e8eda2cf9a60efd975666d"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "e9e5c3efbaa696d1490988cf5b30e23b"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "700105c316933a8202041b6415abb233"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "9b7d020c55e2b4f77ab40c97f88f9ff4"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "ff4392540fcf4c3d3f5e03806e112816"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "cf04dfd5c3cc64e0be44692fe7d976a6"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/myr",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/myr/index.html",
+        "type": "file",
+        "md5": "2d5d4938cbb6462cca2ba71d3644b83f"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "2945391fb536eeada7635f2e1abc4538"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "a6480f390970cb77acea4386bb575b5a"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "36eb1c43d7ac0cea5b40462c68841979"
+    },
+    {
+        "path": "learning-quran-a-complete-guide-to-mastering-quranic-reading-understanding-and-spiritual-growth",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/learning-quran-a-complete-guide-to-mastering-quranic-reading-understanding-and-spiritual-growth/index.html",
+        "type": "file",
+        "md5": "3359d18cc216df4ea506bd9895b97dec"
+    },
+    {
+        "path": "learning-quran-a-spiritual-and-transformative-journey-for-every-muslim",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/learning-quran-a-spiritual-and-transformative-journey-for-every-muslim/index.html",
+        "type": "file",
+        "md5": "0de5b52472c6cf2974fd6b912358f20b"
+    },
+    {
+        "path": "learning-quran-your-essential-guide-to-understanding-and-reciting-the-holy-quran",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/learning-quran-your-essential-guide-to-understanding-and-reciting-the-holy-quran/index.html",
+        "type": "file",
+        "md5": "7f3b96dc272a360e801004d8bc175728"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/download-45.jfif",
+        "type": "file",
+        "md5": "04f3026d55057caef8ed31aeb5a21c2e"
+    },
+    {
+        "path": "online-quran-reading-a-comprehensive-guide-to-learning-the-quran-in-a-digital-world",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/online-quran-reading-a-comprehensive-guide-to-learning-the-quran-in-a-digital-world/index.html",
+        "type": "file",
+        "md5": "d048b7f929f50e6a234b31357c349653"
+    },
+    {
+        "path": "online-quran-reading-a-modern-gateway-to-mastering-quran-recitation",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/online-quran-reading-a-modern-gateway-to-mastering-quran-recitation/index.html",
+        "type": "file",
+        "md5": "2952f85a8eff80c59d23d3c03d003276"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "c61bc9be4646aea2b02dfd420288815a"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "6320fb1fac275c4d8b5422c17f4f73b7"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "d2ab350077a9f8883ac5f4f9c7515130"
+    }
+]
